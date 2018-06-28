@@ -1,0 +1,55 @@
+body{
+ background-image: url(../img/001.jpg);
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: fixed;
+
+}
+.texto-articulo{
+ text-align: justify;
+}
+
+.logo{
+ width: 300px;
+ margin: 10px;
+}
+.foto-galeria{
+ border-radius: 2px;
+}
+
+/* redes sociales estilos*/
+
+.social{
+ color:#ff6e40;
+}
+.face:hover{
+ color: #3A5795;
+}
+.twi:hover{
+ color: #5EA9DD;
+}
+.you:hover{
+ color:#CC181E;
+}
+.ins:hover{
+ color: #2A5B83;
+}
+.pint:hover{
+ color: #D70004;
+}
+.vimeo:hover{
+ color: #1CA7CC;
+}
+.goplus:hover{
+ color:#C30907;
+}
+
+.img-articulo{
+ width: 350px;
+ margin-right: 10px;
+ border-radius: 2px; 
+}
+.perfil-autor{
+ text-align: justify;
+}
